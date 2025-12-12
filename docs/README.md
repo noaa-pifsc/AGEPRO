@@ -1,5 +1,7 @@
-
-# Some AGEPRO Applications
+## The docs folder contains documentation for AGEPRO version 4.21
+1. The version 4.21 reference manual
+2. The original 1998 article on the model 
+### Some AGEPRO Applications
 
 1.  Brooks, E.N., and Brodziak, J.K.T. 2024. Simulation testing performance of ensemble models when catch data are underreported. ICES Journal of Marine Science, 81:1053–1072. <https://doi.org/10.1093/icesjms/fsae067>
 2.  Flowers, A.M., Allen, S.D., Markwith, A.L., and Lee, L.M. (editors). 2019. Stock assessment of southern flounder (*Paralichthys lethostigma*) in the South Atlantic, 1989–2017. Joint report of the North Carolina Division of Marine Fisheries, South Carolina Department of Natural Resources, Georgia Coastal Resources Division, Florida Fish and Wildlife Research Institute, University of North Carolina at Wilmington, and Louisiana State University. NCDMF SAP-SAR-2019-01. 213 p. <https://digital.ncdcr.gov/Documents/Detail/stock-assessment-of-southern-flounder-paralichthys-lethostigma-in-the-south-atlantic-1989-2017/3689489>
