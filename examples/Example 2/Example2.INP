@@ -1,4 +1,4 @@
-AGEPRO VERSION 4.0
+AGEPRO VERSION 4.25
 [CASEID]
 GoM haddock ASAP_final (1977-2011 recruitment)
 [GENERAL]
@@ -57,7 +57,7 @@ Example2.BSN
 [BOUNDS]
 10  0.6
 [OPTIONS]
-1  0  0
+2  0  0
 [SCALE]
 1000  1000  1000  
 [PERC]
