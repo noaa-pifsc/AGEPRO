@@ -1,4 +1,4 @@
-# Age Structured Projection Model Repository
+# Age Structured Projection Model
 
 AGEPRO Project
 Lead:  Jon Brodziak, NOAA Fisheries/PIFSC
