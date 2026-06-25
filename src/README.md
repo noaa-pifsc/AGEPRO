@@ -2,8 +2,8 @@
 
 -   **C code files**
     -   agepro.c — *the main C code*
-    -   ranx.c — *generates random Uniform(0,1) variates*
-    -   boxmuller.c — *generates pairs of random Normal(0,1) variates*
+    -   ranx.c — *function that generates random Uniform(0,1) variates*
+    -   boxmuller.c — *function that generates pairs of random Normal(0,1) variates*
     -   util.c — *utility functions*
 -   **C header files**
     -   agepro.h
