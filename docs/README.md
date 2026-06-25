@@ -1,5 +1,5 @@
-## /docs contains documentation for AGEPRO version 4.21
-1. The version 4.21 reference manual
+## /docs contains documentation for AGEPRO version 4.25
+1. The version 4.25 reference manual
 2. The original 1998 article on the model 
 ### Some AGEPRO Applications
 
