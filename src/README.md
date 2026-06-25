@@ -1,4 +1,4 @@
-## Source code files to compile agepro.exe
+## Source files to compile agepro.exe
 
 -   **C code files**
     -   agepro.c — *the main C code*
